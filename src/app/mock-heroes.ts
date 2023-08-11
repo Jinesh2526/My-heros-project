@@ -7,4 +7,9 @@ export const HEROES: Hero[] = [
   { id: 42, name: 'Audi' },
   { id: 52, name: ' BMW' },
   { id: 62, name: 'HII' },
+  { id: 52, name: ' BMW' },
+  { id: 62, name: 'HII' },
+  { id: 32, name: 'Honda' },
+  { id: 42, name: 'Audi' },
+  { id: 52, name: ' BMW' },
 ];

@@ -16,10 +16,11 @@ export class HerosComponent implements OnInit {
     hero:Hero ={
   id:1,
   name:"Jinesh Shah"
-  // heroes=HEROES;
+
 
 
   }
+  heroes=HEROES;
   constructor() { }
 
   ngOnInit() {
