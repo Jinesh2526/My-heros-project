@@ -16,7 +16,7 @@ export class AppComponent implements OnInit {
 //  age:number=21
 //  photo:string="https://static.theprint.in/wp-content/uploads/2022/07/rs7-1024x477.jpg?compress=true"
 title = 'Tour of Heroes';
-heros=HEROES;
+// heros=HEROES;
   constructor() { }
 
   ngOnInit() {
