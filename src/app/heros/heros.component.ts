@@ -20,6 +20,10 @@ export class HerosComponent implements OnInit {
 // getEven(){
 //   return this.hero.id%2!=0
 // }
-onSelect(hero:Hero){}
+onSelect(hero:Hero){
+  this.selectedHero = hero;
+}
+
+
   ngOnInit() {}
 }
